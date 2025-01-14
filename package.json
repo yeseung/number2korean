@@ -1,0 +1,22 @@
+{
+    "name": "number2korean",
+    "version": "1.0.0",
+    "description": "Changes number to Korean - 숫자를 한글로 바꿔줍니다.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "git+https://github.com/yeseung/number2korean",
+    "keywords": [
+        "number",
+        "korean",
+        "숫자",
+        "한글"
+    ],
+    "author": "_____________seung",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yeseung/number2korean/issues"
+    },
+    "homepage": "https://github.com/yeseung/number2korean#readme"
+}
